@@ -1,7 +1,8 @@
 # User Settings | Edit there as per required
 
 title: accent
-url: "/"
+url: "http://ankitsultana.me"
+baseurl: ""
 
 # This will show up at the top of index page
 site_heading: >
