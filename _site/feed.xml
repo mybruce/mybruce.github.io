@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>accent - Articles</title>
+    <title>一只蚂蚁 - Articles</title>
     <description>accent is, as Trump would put it, the best
 </description>
     <link>
-    http://ankitsultana.me/accent</link>
+    //accent</link>
     
       
       <item>
@@ -17,8 +17,8 @@
         
         <pubDate>Thu, 24 Mar 2016 18:15:17 +0800</pubDate>
         <link>
-        http://ankitsultana.me/accent/jetbrains-ide.html</link>
-        <guid isPermaLink="true">http://ankitsultana.me/accent/jetbrains-ide.html</guid>
+        //accent/jetbrains-ide.html</link>
+        <guid isPermaLink="true">//accent/jetbrains-ide.html</guid>
       </item>
       
     
