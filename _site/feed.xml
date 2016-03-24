@@ -9,91 +9,16 @@
     
       
       <item>
-        <title>Features</title>
+        <title>高效使用IntelliJ IDEA</title>
         
-          <description>&lt;p&gt;This is &lt;span class=&quot;capsule&quot;&gt;accent&lt;/span&gt; a minimal, mobile friendly theme for &lt;span class=&quot;capsule&quot;&gt;Jekyll&lt;/span&gt;&lt;/p&gt;
+          <description>&lt;p&gt;在介绍妙招前，先给大家说说JetBrains这家公司的产品结构（重度用户，所以打个广告）。&lt;/p&gt;
 
 </description>
         
-        <pubDate>Thu, 11 Feb 2016 00:00:00 +0800</pubDate>
+        <pubDate>Thu, 24 Mar 2016 18:15:17 +0800</pubDate>
         <link>
-        //features.html</link>
-        <guid isPermaLink="true">//features.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>Documentation</title>
-        
-          <description>&lt;h3 id=&quot;installation&quot;&gt;Installation&lt;/h3&gt;
-
-</description>
-        
-        <pubDate>Thu, 11 Feb 2016 00:00:00 +0800</pubDate>
-        <link>
-        //documentation.html</link>
-        <guid isPermaLink="true">//documentation.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>Welcome To Jekyll</title>
-        
-          <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Wed, 10 Feb 2016 00:00:00 +0800</pubDate>
-        <link>
-        //welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">//welcome-to-jekyll.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>Testing</title>
-        
-          <description>&lt;h1 id=&quot;header-1&quot;&gt;Header 1&lt;/h1&gt;
-
-</description>
-        
-        <pubDate>Wed, 10 Feb 2016 00:00:00 +0800</pubDate>
-        <link>
-        //testing.html</link>
-        <guid isPermaLink="true">//testing.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>Guest Posts</title>
-        
-          <description>&lt;p&gt;Chaplin has support for guest posts. That means that if you were to have another blogger write on your blog, just edit the &lt;code class=&quot;highlighter-rouge&quot;&gt;YAML&lt;/code&gt; front matter like so:&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Wed, 10 Feb 2016 00:00:00 +0800</pubDate>
-        <link>
-        //guest-posts.html</link>
-        <guid isPermaLink="true">//guest-posts.html</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>Example Content</title>
-        
-          <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ullamcorper est in imperdiet molestie. Curabitur aliquet sem in ante venenatis.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Wed, 10 Feb 2016 00:00:00 +0800</pubDate>
-        <link>
-        //example-content.html</link>
-        <guid isPermaLink="true">//example-content.html</guid>
+        //jetbrains-ide.html</link>
+        <guid isPermaLink="true">//jetbrains-ide.html</guid>
       </item>
       
     
