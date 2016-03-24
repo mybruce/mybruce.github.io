@@ -13,7 +13,7 @@ JetBrains公司的IDE产品非常的齐全，主流的编程语言基本上都�
 
 **妙招一：**
 
-==*游走于键帽间的极致体验——ideavim插件*==
+*游走于键帽间的极致体验——ideavim插件*
 
 ideavim是Jetbrains公司自制的一个IDE插件，可以安装在任何该公司的IDE中。该插件主要的功能就是把VIM的操作模式映射到IDE中来。在我用过有vim插件的编辑器中（Atom、VsCode、Sublime等），只有ideavim的还原度是最高的。
 

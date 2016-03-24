@@ -14,7 +14,7 @@
 
 &lt;p&gt;&lt;strong&gt;妙招一：&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;==&lt;em&gt;游走于键帽间的极致体验——ideavim插件&lt;/em&gt;==&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;游走于键帽间的极致体验——ideavim插件&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;ideavim是Jetbrains公司自制的一个IDE插件，可以安装在任何该公司的IDE中。该插件主要的功能就是把VIM的操作模式映射到IDE中来。在我用过有vim插件的编辑器中（Atom、VsCode、Sublime等），只有ideavim的还原度是最高的。&lt;/p&gt;
 
