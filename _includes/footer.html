@@ -1,14 +1,39 @@
-<footer class="center">
-  <div class="measure">
-    <small>
-      Theme crafted with &lt;3 by <a href="http://johnotander.com">John Otander</a> (<a href="https://twitter.com/4lpine">@4lpine</a>).<br>
-      &lt;/&gt; available on <a href="https://github.com/johnotander/pixyll">Github</a>.
-    </small>
-  </div>
+<footer>
+    {% include paginate.html %}
+    {% include suggestion.html %}
+    {% if page.url == "/about" or paginator.total_pages == 1 or page.url == "/404" %}
+        <div class="container" style="text-align: center; margin-bottom: 20px">
+            <a target="_blank" class="button" href="https://twitter.com/{{ site.twitter_username }}">
+                Follow me on twitter
+            </a>
+        </div>
+    {% endif %}
+    <hr />
+    <div class="user-footer">
+        <div class="copyright alignable pull-left">
+            {% if site.copyright %}
+                <h2> &copy;{{ site.copyright }}</h2>
+            {% else %}
+                <h2> &copy;{{ site.title }}</h2>
+            {% endif %}
+        </div>
+        <div class="alignable pull-right">
+            <a target="_blank" href="https://twitter.com/{{ site.twitter_username }}" class="button">
+                @{{ site.twitter_username }}
+            </a>
+            <a href="mailto:{{ site.email }}" class="button">
+                mail
+            </a>
+            <a target="_blank" href="{{ site.url }}{{ site.baseurl }}/feed.xml" class="button">
+                rss
+            </a>
+        </div>
+    </div>
+    <div style="clear:both"></div>
+    <hr />
+    <div class="theme-footer">
+        <p class="alignable pull-left" style="display: inline-block">
+            Built with <a href="http://jekyllrb.com/" class="different-highlight underline">Jekyll</a> and <a href="http://ankitsultana.me/accent/" class="different-highlight underline">accent</a>
+        </p>
+    </div>
 </footer>
-{% if site.enable_anchorjs %}<!-- AnchorJS -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/3.0.0/anchor.min.js"></script>
-<script>
-    anchors.options.visible = 'always';
-    anchors.add('article h2, article h3, article h4, article h5, article h6');
-</script>{% endif %}
