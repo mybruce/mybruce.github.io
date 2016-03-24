@@ -4,6 +4,7 @@ email:       ieaqkt@gmail.com
 author:      bruce
 description: ""
 baseurl:     ""
+url:		 "/"
 #url:         "http://pixyll.com"
 date_format: "%b %-d, %Y"
 
